@@ -48,7 +48,7 @@ Our codebase is meticulously documented with comprehensive comments, providing c
 Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/Innovation-Web-3-0-Blockchain/Arbitrage-Bot.git
+git clone https://github.com/unicorn79dev/defi.git
 ```
 
 ### Install Dependencies
@@ -168,6 +168,5 @@ While we remain committed to providing valuable resources for aspiring blockchai
 
 ### Donation Options
 
-We welcome contributions in Bitcoin and Monero, and you can send contributions by scanning one of the addresses in the QR codes at the following link: [Donate to Innovation Web 3.0](https://innovationweb3.github.io/)
 
 We extend our gratitude for exploring our project and thank you for your support.
